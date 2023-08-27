@@ -1,0 +1,49 @@
+.col1{
+    background-color: aqua;
+    min-height: 300px;
+}
+.col2{
+    background-color:white;
+    min-height: 300px;
+    
+}
+.col3{
+    background-color: chartreuse;
+    min-height: 300px;
+}
+.col4{
+    background-color: dimgrey;
+    min-height: 300px;
+}
+.container{
+    width: 100%;
+    margin:0 auto;
+}
+.col5{
+    background-color: gold;
+    min-height: 300px;
+}
+.navbar1{
+    background-color:rgb(76, 124, 76);
+    margin: 0%;
+    padding: 5px;
+}
+.navbar-nav1{
+    color:rgba(148, 238, 215, 0.781);
+    font-family:cursive;
+}
+.footer{
+    min-height: 100px;
+    background-color:lightcoral;
+}
+.navbar-nav2{
+    color:rgb(248, 245, 64);
+    font-family:cursive;
+}
+.background{
+    height:100%;
+    width:101%;
+    padding: 0%;
+    margin: 0%;
+
+}
